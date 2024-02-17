@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete 4 elements from project &apos;semi&apos;&#x0D;&#x0A;- Original project: &apos;semi&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     20230330_145612.jpg&#x0D;&#x0A;     20230330_1456121.jpg&#x0D;&#x0A;     20230330_1456122.jpg&#x0D;&#x0A;     20230706_193602.jpg" description="Delete elements" element1="src/main/webapp/resources/images/20230330_145612.jpg" element2="src/main/webapp/resources/images/20230330_1456121.jpg" element3="src/main/webapp/resources/images/20230706_193602.jpg" element4="src/main/webapp/resources/images/20230330_1456122.jpg" elements="0" flags="589830" id="org.eclipse.jdt.ui.delete" resources="4" stamp="1702863894473" subPackages="false" version="1.0"/>
+</session>
